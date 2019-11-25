@@ -82,8 +82,6 @@ Initialized empty Git repository in F:/FirstGit/.git/
 
 注：版本控制系统能明确的记录版本库的改动，包括哪一行的代码发生了什么变化，但是对于二进制文件除外
 
-![]( [https://github.com/WaringHu/MyBlog/tree/master/Git%20%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/assets/00.png](https://github.com/WaringHu/MyBlog/tree/master/Git 学习笔记/assets/00.png) )
-
 1. 创建一个 `README.md` 文件
 
    ```
