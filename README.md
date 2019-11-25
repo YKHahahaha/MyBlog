@@ -1,4 +1,5 @@
 # MyBlog
 记录日常学习，博客在 **Issues** 中
 
-- [数据分析](https://github.com/WaringHu/MyBlog/projects/1)
+- Git 学习笔记
+  - [Git 学习笔记一]()
