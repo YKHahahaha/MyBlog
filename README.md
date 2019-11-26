@@ -3,5 +3,7 @@
 
 - Git 学习笔记系列
   - [Git 学习笔记一](https://github.com/WaringHu/MyBlog/issues/3)
-  - Git 学习笔记二
+  - [Git 学习笔记二](https://github.com/WaringHu/MyBlog/issues/4)
   - Git 学习笔记三
+  - Git 学习笔记四
+  - Git 学习笔记五
